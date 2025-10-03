@@ -1,2 +1,7 @@
-# Crypto-Price-Checker
-A single script that fetches the current price of a cryptocurrency (like Ethereum) in USD from a public API and displays it in your terminal.
+# Simple Crypto Price Checker
+
+A single-file Node.js script that fetches and displays the current price of Ethereum in USD using the CoinGecko API.
+
+### Setup
+1.  Run `npm install axios dotenv`.
+2.  Execute the script with `node price-checker.js`.
